@@ -3,7 +3,15 @@ layout: default
 title: Account Setup
 nav_order: 3
 ---
-# Account Setup
+
+## Collaborating on a StoryMap using a Public (Free) Account
+For this class, you will be creating a Public (Free) StoryMap account.
+
+To add collaborators to a StoryMap using a Public (Free) account, you first need to share the content with all of ESRI users then create a group to share. I recommend having one group member create the account and share the login with the group members.
+
+If you do use a single shared login, be aware that if you are working on the StoryMap at the same time, your edits may not save, or they may overwrite someone else's work working simultaneously. All this to say, coordinate with your group members to do work at different times so you don't risk losing any edits.
+
+## Account Setup
 
 *1*{: .circle .circle-purple} Navigate to [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and click **Sign In**.
 
@@ -34,3 +42,4 @@ An ArcGIS free account can be created by anyone and is intended for noncommercia
 - Categorized layers
 
 You can still include images and video, embed map tours, and use the swipe tool. You can read more about features on the [ArcGIS Storymap Licensing page](https://doc.arcgis.com/en/arcgis-storymaps/reference/licensing.htm).
+
