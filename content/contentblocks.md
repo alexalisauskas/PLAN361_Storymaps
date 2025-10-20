@@ -15,7 +15,8 @@ When you click on <img src="./images/add-content-icon.png" style="width:3%;">, y
 ----
 
 ## Basic Content Blocks
-![content blocks](images/storymap_basicblock.png)
+
+<img src="images/storymap_basicblock.png" style="width:50%">
 
 Basic content blocks include Text, Button, Separator, and Code. 
 
@@ -38,8 +39,7 @@ Basic content blocks include Text, Button, Separator, and Code.
 
 
 ## Media
-
-![content blocks](images/storymap_mediablock.png)
+<img src="images/storymap_mediablock.png" style="width:50%">
 
 You can add **Image**, an **Inage Gallery**, and **Video**. For some multimedia (image, video) you can upload or add a link. For video in particular, it's recommended to link from an external source, like YouTube, since longer videos will rapidly use up your storage.  You can also add or embed **Audio**.
 
@@ -50,7 +50,3 @@ You can create a **Timeline** to clearly show events temporally.
 **Swipe** lets readers compare two maps or images with an interactive slider. This can be useful for showing the same location at different moments, or the same map in different styles. You can use Express Map to create a map on the fly.
 
 ![content blocks](images/storymap_swipe.gif)
-
-
-
-
