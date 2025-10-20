@@ -10,7 +10,7 @@ nav_order: 2
 
 *2*{: .circle .circle-purple} Click **Create an account** at the very bottom. 
 
-<img src="images/agol-account-signin_20240220.png" style="width:60%">
+<img src="images/agol-account-login_20240220.png" style="width:60%">
 
 *3*{: .circle .circle-purple} Fill in your information.
 
