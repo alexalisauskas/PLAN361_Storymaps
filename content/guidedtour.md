@@ -9,8 +9,9 @@ parent: Create a Storymap
 
 You can create a map tour to showcase a set of places. You can decide whether your readers get to explore these places in any order, or are led through in an order of your choosing. 
 
-![gif storymap demo](./images/storymap-maptour_20250409.gif)
+For your assignment you should select Guided Tour. There are two options - Media Focused which features an image or video in the main right panel or Map Focused which features a map in the main right panel
 
+![gif storymap demo](images/)
 
 <br><br>
 
