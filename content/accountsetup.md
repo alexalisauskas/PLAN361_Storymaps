@@ -10,15 +10,15 @@ nav_order: 2
 
 *2*{: .circle .circle-purple} Click **Create an account** at the very bottom. 
 
-<img src="./content/images/agol-account-signin_20240220.png" style="width:60%">
+<img src="images/agol-account-signin_20240220.png" style="width:60%">
 
 *3*{: .circle .circle-purple} Fill in your information.
 
-<img src="./content/images/agol-account-info_20240220.png" style="width:60%">
+<img src="images/agol-account-info_20240220.png" style="width:60%">
 
 *4*{: .circle .circle-purple} Sign in.
 
-<img src="./content/images/agol-account-signin_20240220.png" style="width:60%">
+<img src="images/agol-account-signin_20240220.png" style="width:60%">
 
 {: .note}
 If you are interested getting a personal ArcGIS account, you can find more information [here](https://gis.ubc.ca/software/). Be mindful that students and departments have different options for licenses. Please contact Geospatial Systems Analyst Haitao Li (ht.li@ubc.ca) if you need help with UBC’s Esri product.
