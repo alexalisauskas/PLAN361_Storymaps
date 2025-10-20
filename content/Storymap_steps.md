@@ -7,30 +7,17 @@ has_toc: true
 ---
 # Create an ArcGIS Online StoryMap
 <br>
-After creating a free Storymap, navigate to [storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories) and **Sign In**. Click **Create story**.
+After creating a free Storymap account, navigate to [storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories) and **Sign In**. Click **Create story**.
     
 <br>
 
-![create story](./images/create-story_20250220.png)
-
-
-Alternatively, you can create a new StoryMap from the ArcGIS Online homepage by going to **Content** (in the top banner) and clicking **Create app**. From here, select **ArcGIS StoryMaps** and you're good to go. 
-
-
-The StoryMap we will create today is about everyday navigations in Vancouver. The focus is less on creating a cohesive, polished story and more on introducing you to the interface.
-
-
-Before going further, make sure you've downloaded the [data folder](../storymaps-workshop.zip) and unzipped its contents. This workshop will use data from the Vancouver Open Data portal as well as multimedia collected by your workshop facilitators. Remember, you are encouraged to use your own images from your commutes/everyday navigations in your StoryMap.
-{: .note}
-
-<br>
+<img src="images/storymap_create.png" style="width:60%">
 
 ## Exploring the interface 
-Go ahead and give your StoryMap the title: `Navigating Vancouver`. You'll notice a little paintbrush and palette icon appears, allowing you to center or justify the header block. Feel free to add a subtitle and descriptive text, as well as your name. You can also add a cover image or video. If you choose to do so, browse and upload a file from the multimedia subfolder of `storymaps-workshop`. (If you haven't moved your own images into the workshop folder, this is a reminder to do so. The purpose of keeping your files together is simply to keep you organized.)
-
+You will start with a blank Storymap and land on the cover. You'll notice a little paintbrush and palette icon appears, allowing you to center or justify the header block. Feel free to add a subtitle and descriptive text, as well as your name. You can also add a cover image or video. 
 <br>
 
-![story title](./images/story-title_20250220.png)
+![story title](./images/storymap_cover.png)
 
 
 
@@ -44,11 +31,6 @@ Go ahead and give your StoryMap the title: `Navigating Vancouver`. You'll notice
 
 - To see the **full details** of your StoryMap, go back to the StoryMaps homepage and click the three dots beside your StoryMap's tile. Here you can set things like terms of use, attribution, sharing permissions, description, and more. **Change share access to public, ensuring everyone can see your final map.**
 
-
-- Lastly, **Design** enables you to choose an out-of-the box **Theme** for your StoryMap. Note: only paid AGOL accounts allow you to create your own Themes. However, there is still a variety to choose from. 
+- Lastly, **Design** enables you to choose an out-of-the box **Theme** for your StoryMap. You can also adapt your **Cover Layout** Note: only paid AGOL accounts allow you to create your own Themes. However, there is still a variety to choose from. 
 
 <br>
-
-To Do
-{: .label .label-purple}
-Before moving on, choose a Theme you like (or keep the default). 
