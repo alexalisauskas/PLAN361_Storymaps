@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Add Immersive Content
+title: Guided Tours
 nav_order: 3
 parent: Create a Storymap
 ---
