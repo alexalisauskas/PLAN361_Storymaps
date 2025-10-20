@@ -5,7 +5,7 @@ nav_order: 5
 has_children: true
 has_toc: true
 ---
-# Create an ArcGIS Online StoryMap
+## Create an ArcGIS Online StoryMap
 <br>
 After creating a free Storymap account, navigate to [storymaps.arcgis.com/stories](https://storymaps.arcgis.com/stories) and **Sign In**. Click **Create story**.
     
@@ -29,6 +29,10 @@ You will start with a blank Storymap and land on the cover. You'll notice a litt
 
 - To see the **full details** of your StoryMap, go back to the StoryMaps homepage and click the three dots beside your StoryMap's tile. Here you can set things like terms of use, attribution, sharing permissions, description, and more. **Change share access to public, ensuring everyone can see your final map.**
 
-- Lastly, **Design** enables you to choose an out-of-the box **Theme** for your StoryMap. You can also adapt your **Cover Layout** Note: only paid AGOL accounts allow you to create your own Themes. However, there is still a variety to choose from. 
+- **Design** enables you to choose an out-of-the box **Theme** for your StoryMap. You can also adapt your **Cover** and choose a layout for the top section of your Storymap to feature image, text, video, etc. Note: only paid AGOL accounts allow you to create your own Themes. However, there is still a variety to choose from.
+
+- Under **Design**, You can also toggle **Navigation** on or off. If Navigation is on, it will create a table of contents from Text blocks formatted as Header.
+
+- The question mark in the circle has tons of resources for learning more, including documentation, how to's, and new features.
 
 <br>
