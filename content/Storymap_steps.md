@@ -11,15 +11,13 @@ After creating a free Storymap account, navigate to [storymaps.arcgis.com/storie
     
 <br>
 
-<img src="images/storymap_create.png" style="width:60%">
+<img src="images/storymap_create.png" style="width:70%">
 
 ## Exploring the interface 
 You will start with a blank Storymap and land on the cover. You'll notice a little paintbrush and palette icon appears, allowing you to center or justify the header block. Feel free to add a subtitle and descriptive text, as well as your name. You can also add a cover image or video. 
 <br>
 
 ![story title](./images/storymap_cover.png)
-
-
 
 <br>
 
