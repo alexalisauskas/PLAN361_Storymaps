@@ -5,15 +5,8 @@ nav_order: 1
 ---
 ## Learning objectives
 - Learn how to create a Storymaps account
-- Gain a basic understanding of Storymaps features and how to create one for your project
-- Gain a basic understanding of the Guided Map Tour features of Storymaps
-
-## ArcGIS Online
-
-You can [create an Storymaps Public Account for free](https://www.arcgis.com/sharing/rest/oauth2/authorize?client_id=arcgisstorymaps&response_type=token&expiration=20160&redirect_uri=https%3A%2F%2Fstorymaps.arcgis.com%2Foauth-callback%3FreturnURL%3D%252Fcontent&hideCancel=true&showSignupOption=true&force_login=true).
-
- 
-Today we will be focusing on features in the Public account.
+- Gain a basic understanding of Storymaps design, content blocks, and layout options
+- Gain a basic understanding of the Guided Map Tour content block to use in your walking tour
 
 
 ## Resources
