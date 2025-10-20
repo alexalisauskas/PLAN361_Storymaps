@@ -2,7 +2,7 @@
 layout: default
 title: Content Blocks
 nav_order: 1
-parent: Create a StoryMap
+parent: Create a Storymap
 
 ---
 # Adding Content Blocks 
