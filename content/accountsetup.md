@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Account Setup
 
-*1*{: .circle .circle-purple} Navigate to [[https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and click **Sign In**.
+*1*{: .circle .circle-purple} Navigate to [https://storymaps.arcgis.com/](https://storymaps.arcgis.com/) and click **Sign In**.
 
 
 *2*{: .circle .circle-purple} Click **Create an account** at the very bottom. 
