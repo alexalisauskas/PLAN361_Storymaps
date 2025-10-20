@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-nav_order: 3
+nav_order: 4
 ---
 
 ### [Story Map](https://storymaps.arcgis.com/)
