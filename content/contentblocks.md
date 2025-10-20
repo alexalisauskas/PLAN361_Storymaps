@@ -5,7 +5,7 @@ nav_order: 1
 parent: Create a Storymap
 
 ---
-# Adding Content Blocks 
+## Adding Content Blocks 
 <br>
 
 A StoryMap is essentially a one-page website made by adding blocks of various content one after another. These blocks are called **content blocks**, and can be added by simply clicking the <img src="./images/add-content-icon.png" style="width:3%;"> waiting below your title.  
