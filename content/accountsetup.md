@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Account Setup
-nav_order: 2
+nav_order: 3
 ---
 # Account Setup
 
