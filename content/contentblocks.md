@@ -50,3 +50,10 @@ You can create a **Timeline** to clearly show events based on date or time.
 **Swipe** lets readers compare two maps or images with an interactive slider. This can be useful for showing the same location at different moments, or the same map in different styles. You can use Express Map to create a map on the fly.
 
 <img src="images/storymap_swipe.gif" style="width:50%">
+
+## Immersive
+There are several immersive options, including map tours which we will get into more in the next section.
+
+**Sidecar** allows you to create a dynamic feel with a scrolling, slide-based block. There are 3 layout choices – floating panel, docked panel, and slideshow. This block can be useful to create a visually appealing narrative for your text and materials.
+
+<img src="images/storymap_sidecar.gif" style="width:50%">
