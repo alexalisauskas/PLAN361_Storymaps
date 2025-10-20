@@ -13,11 +13,11 @@ A StoryMap is essentially a one-page website made by adding blocks of various co
 
 When you click on <img src="./images/add-content-icon.png" style="width:3%;">, you'll see the different kinds of content that can be added. Notice, however, some options are greyed out when working with a free account. Not to worry — you can still get a lot done with the content blocks available. 
 
+<img src="images/storymap_basicblock.png" style="width:50%" align="middle">
+
 ----
 
 ## Basic Content Blocks
-
-<img src="images/storymap_basicblock.png" style="width:50%">
 
 Basic content blocks include Text, Button, Separator, and Code. 
 
@@ -40,11 +40,10 @@ Basic content blocks include Text, Button, Separator, and Code.
 
 
 ## Media
-<img src="images/storymap_mediablock.png" style="width:50%">
 
 You can add **Image**, an **Inage Gallery**, and **Video**. For some multimedia (image, video) you can upload or add a link. For video in particular, it's recommended to link from an external source, like YouTube, since longer videos will rapidly use up your storage.  You can also add or embed **Audio**.
 
-You can create a **Timeline** to clearly show events temporally.
+You can create a **Timeline** to clearly show events based on date or time.
 
 ![content blocks](images/storymap_timeline.png)
 
