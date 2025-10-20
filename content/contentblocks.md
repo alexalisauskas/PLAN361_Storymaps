@@ -45,8 +45,8 @@ You can add **Image**, an **Inage Gallery**, and **Video**. For some multimedia 
 
 You can create a **Timeline** to clearly show events based on date or time.
 
-![content blocks](images/storymap_timeline.png)
+<img src="images/storymap_timeline.png" style="width:50%">
 
 **Swipe** lets readers compare two maps or images with an interactive slider. This can be useful for showing the same location at different moments, or the same map in different styles. You can use Express Map to create a map on the fly.
 
-![content blocks](images/storymap_swipe.gif)
+<img src="images/storymap_swipe.gif" style="width:50%">
