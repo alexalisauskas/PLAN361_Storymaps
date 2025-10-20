@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Account Setup
-nav_order: 3
+nav_order: 4
 ---
 
 ## Collaborating on a StoryMap using a Public (Free) Account
