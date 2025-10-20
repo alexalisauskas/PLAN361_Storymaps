@@ -14,6 +14,7 @@ When you click on <img src="./images/add-content-icon.png" style="width:3%;">, y
 
 <img src="images/storymap_basicblock.png" style="width:50%" align="middle">
 
+You can move content blocks around by clicking on the dots on the left of the content block, and dragging the block to move it.
 ----
 
 ## Basic Content Blocks
