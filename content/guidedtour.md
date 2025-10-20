@@ -13,7 +13,7 @@ You can create a map tour to showcase a set of places. You can decide whether yo
 
 You can add a Guided Map Tour anywhere in your story. You can also include more than one - this might be useful if you want to create maps representing different categories or askpects of your walking tour.
 
-## Add a Guided Map Tours
+## Add a Guided Map Tour
 Click the green plus sign and select Map Tour under the Immersive heading. You can start your Map Tour from scratch or by uploading photos.
 
 <img src="images/storymap_guidedtour1.png" style="width:50%" align="middle">
