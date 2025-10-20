@@ -20,7 +20,7 @@ Click the green plus sign and select Map Tour under the Immersive heading. You c
 
 If you have a folder of images you want to use in your Map Tour, you can select Upload Photos to batch upload them. Don't worry too much about the order, as you will be prompted to confirm your selection of images and the order they go in. Each image will populate your tour with one point. 
 
-<img src="images/storymap_photo upload.png" style="width:50%" align="middle">
+<img src="images/storymap_photoupload.png" style="width:50%" align="middle">
 
 You will be prompted to select a Map Tour type. For your assignment you should select Guided Tour. Guided leads the reader through an order of your choosing, whereas Explorer allows the reader to peruse on their own. 
 
@@ -42,6 +42,8 @@ Each slide on your Guided Map Tour is a point consisting of 3 components
 
 ![map tour content block](images/storymap_guidedtour3.png)
 
+To add a new tour point, click the green plus button the bottom right of the Guided Tour Slider. 
+
 ### Title and Description
 
 If you click on the slide's title, you can add a title. You can do the same with the description section. As part of the description you can add text, audio or a button. Neither the title nor descriptionfields are required; if you leave the field blank they just won't appear
@@ -60,11 +62,10 @@ To add a location, click on the first Slide and select "Add location". Now, you 
 
 - You can choose to add progress lines that connect points on your tour. These are not walking directions, but a line 'as the crow flies' that will connect the points directly, so think about how your reader will be using the map. 
 
-- You can also always change a map tour layout by going to its Options in the bottom left corner of the content block.
-
 ### Edit Slides
 You can click on the gear icon that says Options to change elemts of your Guided Tour, including layout or style. You can also edit numbering to be ascending or descending, or to start at a particular number. This latter feature can be useful for creating several Guided Tours, but which have continuous numbering.
 
+You can use the Options menu to delete your tour or to duplicate it. 
 
+You can easily change the order of your slides/tour stops by simply clicking and dragging them to the desired order.
 
-<br>
