@@ -27,11 +27,11 @@ You will start with a blank Storymap and land on the cover. You'll notice a litt
 
 - Who can see your published work? The three dots (ellipses) beside Publish reveal **more actions**. Here you can delete your story all together, duplicate it (if, for instance, you want to make different versions), and manage the **settings**. 
 
-- To see the **full details** of your StoryMap, go back to the StoryMaps homepage and click the three dots beside your StoryMap's tile. Here you can set things like terms of use, attribution, sharing permissions, description, and more. **Change share access to public, ensuring everyone can see your final map.**
+- To see the **full details** of your StoryMap, go back to the StoryMaps homepage and click the three dots beside your StoryMap's tile. Here you can set things like terms of use, attribution, sharing permissions, description, and more. All details won't appear until you have published your StoryMap. 
 
 - **Design** enables you to choose an out-of-the box **Theme** for your StoryMap. You can also adapt your **Cover** and choose a layout for the top section of your Storymap to feature image, text, video, etc. Note: only paid AGOL accounts allow you to create your own Themes. However, there is still a variety to choose from.
 
-- Under **Design**, You can also toggle **Navigation** on or off. If Navigation is on, it will create a table of contents from Text blocks formatted as Header.
+- Under **Design**, you can also toggle **Navigation** on or off. If Navigation is on, it will create a table of contents from Text blocks formatted as Header.
 
 - The question mark in the circle has tons of resources for learning more, including documentation, how to's, and new features.
 
