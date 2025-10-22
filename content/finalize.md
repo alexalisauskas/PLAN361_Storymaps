@@ -6,7 +6,7 @@ parent: Create a Storymap
 ---
 
 ## Add Credits and Attributions
-All the way at the bottom of your StoryMap you can add Credits and Attributions. Here is a great place to note any organization you're working with or cite your research references. You can also cite your references using text blocks.
+All the way at the bottom of your StoryMap you can add Credits and Attributions. Here is a great place to note any organization you're working with or cite your research references.
 
 ## Publish 
-Hit the publish button to have to work made public. 
+Hit the publish button to have your work made public. 
