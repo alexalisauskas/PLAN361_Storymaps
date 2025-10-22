@@ -2,7 +2,7 @@
 layout: default
 title: Finalizing your StoryMap
 nav_order: 3
-parent: Create a StoryMap
+parent: Create a Storymap
 ---
 
 ## Add Credits and Attributions
