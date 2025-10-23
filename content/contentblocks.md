@@ -12,10 +12,9 @@ A StoryMap is essentially a one-page website made by adding blocks of various co
 
 When you click on <img src="./images/add-content-icon.png" style="width:3%;">, you'll see the different kinds of content that can be added. Notice, however, some options are greyed out when working with a free account. Not to worry — you can still get a lot done with the content blocks available. 
 
-<img src="images/storymap_basicblock.png" style="width:50%" align="middle">
-
 You can move content blocks around by clicking on the dots on the left of the content block, and dragging the block to move it.
-----
+
+<img src="images/storymap_basicblock.png" style="width:50%" align="middle">
 
 ## Basic Content Blocks
 
